@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Head</title>
+    <link href="page.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- blah blah -->
+  </body>
+</html>
